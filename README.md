@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Josh, an <a href="www.linkedin.com/in/joshua-ellis30h">IT Professional</a>☺</h1>
 
-<!--
-**Jellis1992/jellis1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation]
+  - [osTicket: Post-Installation Configuration]
+  - [osTicket: Ticket Lifecycle Examples]
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs]
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols])
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="www.linkedin.com/in/joshua-ellis30" />][linkedin]
+[linkedin]:https://www.linkedin.com/in/joshua-ellis-b5941a238/
