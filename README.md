@@ -1,6 +1,6 @@
 <h1>Hi, I'm Josh, an <a href="www.linkedin.com/in/joshua-ellis30h">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jellis1992/osticket-prereqs)
